@@ -1,4 +1,6 @@
 ## Histogram-Equalization-Using-OpenCV
+### Name: SUBHASH V
+### Register Number: 212224240163
 
 ## Aim
 
@@ -80,34 +82,42 @@ plt.subplot(122); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 
 ### Input Grayscale Image
 
-<img width="738" height="440" alt="image" src="https://github.com/user-attachments/assets/ed226899-4207-4a67-8486-ab02c146881f" />
+<img width="447" height="542" alt="image" src="https://github.com/user-attachments/assets/7d014588-86b9-44ad-9b54-7a11f0b7e45f" />
+
 
 ### Input Grayscale Image Range
-<img width="877" height="536" alt="image" src="https://github.com/user-attachments/assets/c665c472-3488-40e3-a800-15a724be41a7" />
+<img width="710" height="542" alt="image" src="https://github.com/user-attachments/assets/c7f70576-e2f1-4050-88f1-54fe5851af62" />
+
 
 ### Input Grayscale Image Equalized Histogram
-<img width="846" height="535" alt="image" src="https://github.com/user-attachments/assets/20f0460e-f2ca-432a-afa8-0d7da62750c3" />
+<img width="722" height="575" alt="image" src="https://github.com/user-attachments/assets/50ead1d2-8efc-446d-a105-536a63d1013e" />
 
 
 ### Histogram of Grayscale Image and Color Image Channels
 
 ### Original Image
 
-<img width="775" height="467" alt="image" src="https://github.com/user-attachments/assets/c74ea9af-b263-420d-8e39-ae3a06dc1f9a" />
+<img width="450" height="542" alt="image" src="https://github.com/user-attachments/assets/51e534db-0408-4a6d-a026-56e089156a14" />
+
 
 ### Equalized Image
 
-<img width="740" height="441" alt="image" src="https://github.com/user-attachments/assets/cff11798-aa29-4a1f-adb2-ecd245f9d202" />
+<img width="445" height="535" alt="image" src="https://github.com/user-attachments/assets/f53ad655-c724-404a-be83-ffc8cd3a72e1" />
+
 
 ### Equalized Histogram
-<img width="845" height="548" alt="image" src="https://github.com/user-attachments/assets/c37fbf0f-a3b0-4c80-b36c-ccba7f02dd8d" />
+
+<img width="713" height="530" alt="image" src="https://github.com/user-attachments/assets/be13c777-ecdc-420b-ba47-28f8dc07771e" />
+
 
 ### Final Output of Original Image and Equalized 
-<img width="1397" height="390" alt="image" src="https://github.com/user-attachments/assets/a9d8ba05-ec07-4198-94cf-752ab29c1657" />
+
+<img width="888" height="325" alt="image" src="https://github.com/user-attachments/assets/75d270cd-824a-4401-95c7-612cfbe397bf" />
 
 
 ### Final Output of Original Image and its Histogram Equalized
-<img width="1428" height="437" alt="image" src="https://github.com/user-attachments/assets/46d7ed22-d3f6-4f4e-bfc8-8ec26c4ef899" />
+
+<img width="872" height="292" alt="image" src="https://github.com/user-attachments/assets/3073a84f-46c8-4304-ba29-1eb1196998cd" />
 
 
 ## Result
